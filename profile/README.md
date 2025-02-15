@@ -28,7 +28,9 @@ We make software, experiences, and media. This also includes games. The RUFF Fou
   
 ## Websites
 - [Blazed Labs LLC](https://blazedlabs.com/)
-- [Blazed Space](https://www.blazed.space/)
+- [Blazed Space Design Agency](https://www.blazed.space/)
+- [Blazed Development](https://blazed.dev/)
+- [Blazed Publishing](https://blazed.xyz/)
 
 ## Partners
 - [RTM Transit](https://rtmtransit.com/)
