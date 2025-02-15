@@ -7,7 +7,7 @@
 Blazed Labs is a product development company we founded in January, 2020.
 
 ## What do you do?
-We make software, experiences, and media. This also includes games. The RUFF Foundation is our open source development group, whom acts as the orchestrator for various collaborative project development ventures. [Contact Us](https://blazed.contact/) for development inquiries.
+We make software, experiences, and media. This also includes games. The RUFF Foundation is our open source development group, whom acts as the orchestrator for various collaborative project development ventures. [Contact Us](https://blazedlabs.com/contact) for development inquiries.
 
 ## Social
 - [Facebook](https://facebook.com/blazedlabs)
